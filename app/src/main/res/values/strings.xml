@@ -1,0 +1,19 @@
+<resources>
+        <string name="app_name">FPC for Faculty</string>
+        <string name="drawer_open">Drawer Open </string>
+        <string name="drawer_close">Drawer Close</string>
+        <string name="Fpc">https://fpc78612.000webhostapp.com/</string>
+        <string name="home">Home</string>
+        <string name="dept">Department</string>
+        <string name="faculty">Faculty</string>
+        <string name="student">Student <Deta></Deta>ils</string>
+        <string name="logout">Logout</string>
+        <string name="Attendance">Attendance</string>
+        <string name="MidResult">Mid Result</string>
+        <string name="timetable">Time Table</string>
+        <string name="global">Global Notice Board</string>
+        <string name="subject">Subjects</string>
+        <string name="todo">TODO</string>
+        <string name="change_pwd">Change Password</string>
+</resources>
+
